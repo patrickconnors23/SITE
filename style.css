@@ -1,6 +1,7 @@
-h3 {
+h4 {
     color: white;
-    font-family: "Inconsolata"
+    font-family: "Inconsolata";
+    margin-bottom: 5%;  
 }
 
 p {
@@ -36,4 +37,10 @@ html, body
 
 body {
     background-color: #3C3C3C;
+}
+
+.container {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
